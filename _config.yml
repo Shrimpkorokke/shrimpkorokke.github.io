@@ -20,7 +20,7 @@ title                    : "MUN JONGKUK"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MUN JONGKUK"
-description              : "An amazing website."
+description              : "설명"
 url                      : "https://shrimpkorokke.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "shrimpkorokke/minimal-mistakes"
