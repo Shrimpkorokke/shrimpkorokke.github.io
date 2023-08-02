@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Korokke's Note"
+title                    : "Korokke's Notepad"
 title_separator          : "-"
 subtitle                 : "서브타이틀"
 name                     : "새우고로케"
