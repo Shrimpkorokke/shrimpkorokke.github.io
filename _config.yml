@@ -293,4 +293,4 @@ defaults:
       related: true
       sidebar_main: true
       mathjax: true
-      
+      show_date: true
