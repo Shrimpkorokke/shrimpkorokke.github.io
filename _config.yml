@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/profile.png"
   bio              : "바삭한 새우고로케"
   location         : "Seoul, Republic of Korea"
-  email            :
+  #email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
